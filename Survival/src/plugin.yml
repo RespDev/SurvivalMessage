@@ -1,0 +1,6 @@
+main: net.minigameheaven.survival.Survival
+name: SurvivalJoinMessage
+version: 0.0.1
+description: Sends the player who joins a message and also customizes the default join message.
+api-version: 1.13
+author: RespDev
